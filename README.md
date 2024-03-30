@@ -18,3 +18,9 @@
   <li>🥈 BITAmin 동계 컨퍼런스 <strong>최우수상</strong></li>
   <li>🥉 2023 삼성증권 디지털/IT 학회 연계 프로그램 <strong>우수상</strong></li>
 </ul>
+
+> More about me
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/songkj8170)
+
+
+
