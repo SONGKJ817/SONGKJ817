@@ -24,5 +24,11 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/songkj8170)
 
+> Certificate
+<ul>
+  <li>ADsP</li>
+  <li>SQLD</li>
+  <li>빅데이터 분석기사</li>
+</ul>
 
 
